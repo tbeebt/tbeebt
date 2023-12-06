@@ -1,3 +1,12 @@
+# 使用须知：
+# 1. 使用的Python版本必须大于等于Python3.8
+# 2. 定时执行的任务必须放到中午十二点以后（推荐中午十二点），本人在早上八九点测试有问题
+# 3. 安装脚本依赖requests toml
+# 4. 把文件lenovo_sign.py，config.toml上传到青龙面板
+# 5. 在config.toml里面填写账号和推送
+
+
+
 [browser]
 # 不用填
 ua = ""
